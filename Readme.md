@@ -1,4 +1,3 @@
-```markdown
 # Data Analysis Project: Sales Data Exploration with Python
 
 Welcome to my first data analysis project! This project is part of my journey to learn **data analysis** and **data science** using Python. I’ve built a simple pipeline to analyze sales data, and I’m excited to share it with you. Whether you’re a beginner or an experienced coder, this project is designed to be easy to understand and replicate.
@@ -67,4 +66,3 @@ These charts are saved as PNG files for the final report.
 ## Project Structure
 
 Here’s what’s in this repository:
-```
